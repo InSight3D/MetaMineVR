@@ -9,10 +9,10 @@ coverY: 0
 ## Our Vision
 
 {% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
+**Good to know:** We're going to have a VR game, in which you can 'mine' real cryptocurrency. You can discover better 'ore', and that gets you more money. This will be it's own hosted token, so it is it's own cryptocurrency. People can pay to buy ads on the game, where they will be displayed on walls. Better pickaxes means more money, higher chances of better ore, and more. You will be able to visit this website to claim the crypto by logging into your secure account.
 {% endhint %}
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+Our company vision is to **be the leading video game/crypto mix** and to **make money** through a beautiful, practical, consciously-produced game.
 
 ## Our Values
 
